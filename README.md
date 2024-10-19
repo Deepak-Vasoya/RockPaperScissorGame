@@ -1,6 +1,7 @@
 # 🪨✂️📄 Rock Paper Scissor Game
 
-Welcome to **Rock Paper Scissor Game**, a simple yet fun implementation of the classic **Rock Paper Scissors** using **Python** and **Computer Vision**! 🎮
+🎮Welcome to **Rock Paper Scissor Game**, a simple yet fun implementation of the classic **Rock Paper Scissors** 
+using **Python** and **Computer Vision**!
 
 The game detects your hand gesture in real-time using your webcam and matches it against the AI's randomly generated move. 
 
@@ -11,15 +12,11 @@ The game detects your hand gesture in real-time using your webcam and matches it
 - 🧠 **AI opponent** generating random moves
 - ⚡ **Real-time response** for a smooth gaming experience
 
----
-
 ## 🛠️ Tech Stack
 
 - **Language**: Python
 - **Libraries**: OpenCV, Mediapipe
 - **Tools**: Webcam for real-time hand detection
-
----
 
 ## 🚀 How to Install and Run the Game
 
@@ -35,7 +32,7 @@ Simply execute the Python script::
    ```bash
    python main.py
 
----
+
 
 ## 🎮 How to Play
 Make sure your webcam is on.
@@ -43,7 +40,6 @@ Show one of the three gestures (Rock, Paper, or Scissors) in front of the camera
 The game will detect your move and match it against the AI's random move.
 Enjoy!
 
----
 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute:
@@ -51,10 +47,7 @@ We welcome contributions! If you'd like to contribute:
 2. Create a new branch.
 3. Make your changes and submit a pull request.
 
----
-
 ## 👏 Acknowledgments
 Mediapipe for providing an awesome hand-tracking solution.
 All the contributors and developers who make open-source fun!
 
----
