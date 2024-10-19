@@ -1,4 +1,5 @@
-🪨✂️📄 Rock Paper Scissor Game
+#🪨✂️📄 Rock Paper Scissor Game
+
 Welcome to Rock Paper Scissor Game, a simple yet fun implementation of the classic Rock Paper Scissors using Python and Computer Vision! 🎮
 
 The game detects your hand gesture in real-time using your webcam and matches it against the AI's randomly generated move.
