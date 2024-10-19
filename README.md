@@ -1,4 +1,4 @@
-#🪨✂️📄 Rock Paper Scissor Game
+🪨✂️📄 # Rock Paper Scissor Game
 
 Welcome to Rock Paper Scissor Game, a simple yet fun implementation of the classic Rock Paper Scissors using Python and Computer Vision! 🎮
 
